@@ -1,0 +1,32 @@
+{
+  "dirname": null,
+  "full_resource": {
+    "dirname": null,
+    "files": [
+      {
+        "category": "public",
+        "content": "{\n  \"quality\": [\n    {\n      \"cc\": 9,\n      \"pep8\": 0,\n      \"lloc\": 18,\n      \"vhalstead\": 225.72,\n      \"header\": 3\n    }\n  ]\n}",
+        "mode": "r",
+        "name": "qcheck.json"
+      },
+      {
+        "category": "public",
+        "content": "- input: |\n    E 1\n    B 0\n  output: |\n    Fim de jogo\n\n- input: |\n    D 2\n    D 1\n    C 3\n    C 1\n    C 2\n  output: |\n    Parabéns, conquista do portal (3, 6)\n\n- input: |\n    B 1\n    D 1\n    B 1\n  output: |\n    Parabéns, conquista do portal (1, -2)\n\n",
+        "mode": "ro",
+        "name": "public_tests.yaml"
+      },
+      {
+        "content": "{\n  \"tests\": [],\n  \"title\": \"Karel o Robô\"\n}",
+        "mode": "r",
+        "name": "tst.json"
+      }
+    ],
+    "iid": 5844108960595968,
+    "index": null,
+    "user": "lucas.lima.silva@ccc.ufcg.edu.br"
+  },
+  "iid": 5844108960595968,
+  "key": "5844108960595968",
+  "site": "prog1",
+  "user": "lucas.lima.silva@ccc.ufcg.edu.br"
+}

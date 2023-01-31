@@ -1,0 +1,26 @@
+{
+  "dirname": null,
+  "full_resource": {
+    "dirname": null,
+    "files": [
+      {
+        "category": "public",
+        "content": "- input: |\n    4\n    9\n    11\n    6\n    2\n    1\n    7\n    3\n    5\n  output: |\n    IMPARES em maior quantidade\n    PARES:\n    4\n    6\n    2\n    IMPARES:\n    9\n    11\n    1\n    7\n    3\n    5\n\n- input: |\n    8\n    1\n    4\n    6\n    10\n  output: |\n    PARES em maior quantidade\n    PARES:\n    8\n    4\n    6\n    10\n    IMPARES:\n    1\n\n",
+        "mode": "ro",
+        "name": "public_tests.yaml"
+      },
+      {
+        "content": "{\n  \"tests\": [],\n  \"title\": \"Números em equilíbrio\"\n}",
+        "mode": "r",
+        "name": "tst.json"
+      }
+    ],
+    "iid": 4978857650159616,
+    "index": null,
+    "user": "lucas.lima.silva@ccc.ufcg.edu.br"
+  },
+  "iid": 4978857650159616,
+  "key": "4978857650159616",
+  "site": "prog1",
+  "user": "lucas.lima.silva@ccc.ufcg.edu.br"
+}

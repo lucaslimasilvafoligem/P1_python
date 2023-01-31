@@ -1,0 +1,18 @@
+#Objetivo definir época da vida de um índividuo de acordo com a sua idade
+#	- Criança (0 - 11 anos)
+#	- Adolescente (12 - 17 anos)
+#	- Adulto (18 - 59 anos)
+#	- Idoso (>= 60 anos)
+
+idade = int(input("Idade:"))
+
+if idade >= 100:
+	print("Múmia")
+elif idade >= 60:
+	print("Idoso")
+elif idade >= 18:
+	print("Adulto")
+elif idade >= 12:
+	print("Adolescente")
+else:
+	print("Criança")  

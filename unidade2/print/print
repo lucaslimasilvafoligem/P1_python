@@ -1,0 +1,3 @@
+quantidade = int(input("Quantia:"))
+
+print("Controle é uma ilusão... " * quantidade)

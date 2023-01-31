@@ -1,0 +1,9 @@
+# Objetivo: testar um fórmulario
+
+nome = input()
+ano_nascimento = int(input())
+
+idade = 2021 - int(ano_nascimento)
+
+print(f"Oi, {nome}!")
+print(f"Você deve ter {idade} anos!" )

@@ -1,0 +1,26 @@
+{
+  "dirname": null,
+  "full_resource": {
+    "dirname": null,
+    "files": [
+      {
+        "category": "public",
+        "content": "- input: |\n    10\n    1\n    10\n  match: .*55.00.*\n",
+        "mode": "ro",
+        "name": "public_tests.yaml"
+      },
+      {
+        "content": "{\n  \"tests\": [],\n  \"title\": \"Soma de uma PA\"\n}",
+        "mode": "r",
+        "name": "tst.json"
+      }
+    ],
+    "iid": 5194175819546624,
+    "index": null,
+    "user": "lucas.lima.silva@ccc.ufcg.edu.br"
+  },
+  "iid": 5194175819546624,
+  "key": "5194175819546624",
+  "site": "prog1",
+  "user": "lucas.lima.silva@ccc.ufcg.edu.br"
+}

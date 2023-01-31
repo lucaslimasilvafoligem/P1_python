@@ -1,0 +1,11 @@
+#Teste de funções
+
+valor = int(input("Valor:"))
+
+if valor <= 10:
+	res = "Ok 1"
+elif valor >= 11:
+	res = "Ok 2"
+
+print(f"Programa executado sem erro com mensagem igual a: {res}")
+

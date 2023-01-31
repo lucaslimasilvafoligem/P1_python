@@ -1,0 +1,8 @@
+#Objetivo:Catraca de parquinho
+
+idade = int(input("Digite sua idade:"))
+
+if idade > 12:
+	print("ingresso R$ 20 reais")
+
+print("Acesso liberado")

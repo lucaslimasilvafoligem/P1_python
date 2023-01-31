@@ -1,0 +1,11 @@
+frutas = ['banana', 'cereja', 'manga', 'pitomba']
+
+for fruta in frutas:
+	print(fruta)
+
+print('fora do laço')
+print()
+print()
+
+for i in range(len(frutas)):
+	print(frutas[i])

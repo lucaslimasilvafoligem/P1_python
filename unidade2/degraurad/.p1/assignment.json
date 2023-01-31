@@ -1,0 +1,26 @@
+{
+  "dirname": null,
+  "full_resource": {
+    "dirname": null,
+    "files": [
+      {
+        "category": "public",
+        "content": "- input: |\n    30.0\n  match: .*0.52.*\n\n- input: |\n    45.0\n  match: .*0.78.*\n",
+        "mode": "ro",
+        "name": "public_tests.yaml"
+      },
+      {
+        "content": "{\n  \"tests\": [],\n  \"title\": \"Graus para radianos\"\n}",
+        "mode": "r",
+        "name": "tst.json"
+      }
+    ],
+    "iid": 5636952856461312,
+    "index": null,
+    "user": "lucas.lima.silva@ccc.ufcg.edu.br"
+  },
+  "iid": 5636952856461312,
+  "key": "5636952856461312",
+  "site": "prog1",
+  "user": "lucas.lima.silva@ccc.ufcg.edu.br"
+}

@@ -1,0 +1,12 @@
+# Disciplina: laboratório de programação e programação.
+# Aluno: Lucas de Lima da Silva.
+# Objetivo: Desenvolver um programa que leia a quantidade de pessoas a serem transportadas e imprima quantas vans serão completamente preenchidas e também caso sobre uma quantidade de passageiros que não preencha por inteiro uma van, o programa considera que essas pessoas precisam de um transporte menor e deve imprimir essa quantidade em percentagem do total de passageiros.
+
+pessoas = int(input())
+capacidvan = int(input())
+
+vansnecessarias = pessoas // capacidvan
+pessoassemvan = pessoas % capacidvan
+
+print(f"{vansnecessarias} van(s) completa(s).")
+print(f"{pessoassemvan:.2f}% dos passageiros não utilizarão vans.")

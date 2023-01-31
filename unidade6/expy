@@ -1,0 +1,6 @@
+def triplo(n):
+  valor = 3 * n
+  return valor
+
+num = (9 + triplo(3 + 4)) * triplo(2)
+print(num)

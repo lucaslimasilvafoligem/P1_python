@@ -1,0 +1,6 @@
+reais = float(input("Reais? "))
+cota = float(input("cotação? "))
+
+conversao = reais * cota
+
+print(f"Conversão: $ {conversao:.2f}")

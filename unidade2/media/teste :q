@@ -1,0 +1,9 @@
+Obejetivo: encontrar a média dentre 3 valores
+
+valor1 = float(input("digite o valor1"))	
+valor2 = float(input("digite o valor2"))
+valor3 = float(input("digite o valor3"))
+
+media = (valor1 + valor2 + valor3); / 3
+
+print(media)

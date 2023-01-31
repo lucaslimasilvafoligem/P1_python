@@ -1,0 +1,7 @@
+# Uso do 'For'
+
+for i in [1,2,3,4,5]:
+	print("linha1")
+	print("linha2")
+
+print("fora do laço")

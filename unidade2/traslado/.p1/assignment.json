@@ -1,0 +1,26 @@
+{
+  "dirname": null,
+  "full_resource": {
+    "dirname": null,
+    "files": [
+      {
+        "category": "public",
+        "content": "- input: |\n    200\n    12\n  output: |\n    16 van(s) completa(s).\n    4.00% dos passageiros não utilizarão vans.\n\n- input: |\n    57\n    7\n  output: |\n    8 van(s) completa(s).\n    1.75% dos passageiros não utilizarão vans.\n",
+        "mode": "ro",
+        "name": "public_tests.yaml"
+      },
+      {
+        "content": "{\n  \"tests\": [],\n  \"title\": \"Traslado de Passageiros\"\n}",
+        "mode": "r",
+        "name": "tst.json"
+      }
+    ],
+    "iid": 5880633026936832,
+    "index": null,
+    "user": "lucas.lima.silva@ccc.ufcg.edu.br"
+  },
+  "iid": 5880633026936832,
+  "key": "5880633026936832",
+  "site": "prog1",
+  "user": "lucas.lima.silva@ccc.ufcg.edu.br"
+}

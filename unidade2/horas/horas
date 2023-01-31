@@ -1,0 +1,7 @@
+#Objetivo: cálcular horas e minutos
+
+hours = float(input("Horas:"))
+
+minutes = hours * 60
+
+print(minutes)

@@ -1,0 +1,11 @@
+digitos = input()
+limite = int(input))
+
+soma = 0
+impares = 0
+for d in digitos:
+    if d % 2 != 0:
+        impares += 1
+        if impares >= 6: break
+    soma += int(d)
+    if soma >= limite

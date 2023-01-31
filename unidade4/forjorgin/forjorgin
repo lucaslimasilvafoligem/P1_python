@@ -1,0 +1,8 @@
+# Outras formas de usar o 'for'
+
+for i in range(3):
+	print(f"{i}. linha 1")
+	print(f"{i}. linha 2")
+
+print("fora do laço")
+

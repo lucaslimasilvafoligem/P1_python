@@ -1,0 +1,10 @@
+# Objetivo: calcular a media de 3 valores
+
+valor1 = float(input())
+valor2 = float(input())
+valor3 = float(input())
+
+media = (valor1 + valor2 + valor3) / 3
+
+print(f"Média: {media:}")
+

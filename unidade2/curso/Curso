@@ -1,0 +1,10 @@
+curso = "Desing"
+ies = "UFCG"
+
+print(f"Bem-vindo ao curso de {curso} da {ies}")
+
+a = "Valor1"
+b = "Valor2"
+c = "Valor3"
+print(f"1) {a}, {b}, {c}")
+print(f"2) {a}, {b}, {c}")

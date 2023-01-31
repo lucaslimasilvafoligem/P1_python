@@ -1,0 +1,13 @@
+num1 = 19
+num2 = 22
+
+print(f"1) Número: {num1 / num2}")
+print(f"2) Número: {num1 / num2:.3f}")
+print(f"3) Número: {num1 / num2:10.3f}")
+print(f"4) Número: {num1 / num2:<10.3f}")
+print(f"5) Número: {num1 / num2:+10.3f}")
+print(f"6) Número: {num1 / num2:+010.3f}")
+
+num = 1234
+print(f"7)\nint: {num:d}; \nhex: {num:x}; \noct: {num:o}; \nbin: {num:b"})
+

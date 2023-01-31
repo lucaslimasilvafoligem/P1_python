@@ -1,0 +1,8 @@
+# Objetivo: achar a área de um retângulo ou quadrado
+
+altura = int(float(input("Digite a altura:"))) 
+base = int(float(input("Digite a base:")))
+
+area = altura * base
+
+print(f"Área do retângulo:" + str(area))

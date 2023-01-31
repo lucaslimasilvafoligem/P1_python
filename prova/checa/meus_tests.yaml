@@ -1,0 +1,23 @@
+- input: |
+    5315116
+    14
+  output: |
+    soma: 14
+    números lidos: 4 de 7
+    critério de parada: limite
+
+- input: |
+    12374688
+    40
+  output: |
+    soma: 39
+    números lidos: 8 de 8
+    critério de parada: final da sequência
+
+- input: |
+    3335557
+    32
+  output: |
+    soma: 24
+    números lidos: 6 de 7
+    critério de parada: 6 ímpares

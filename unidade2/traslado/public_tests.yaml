@@ -1,0 +1,13 @@
+- input: |
+    200
+    12
+  output: |
+    16 van(s) completa(s).
+    4.00% dos passageiros não utilizarão vans.
+
+- input: |
+    57
+    7
+  output: |
+    8 van(s) completa(s).
+    1.75% dos passageiros não utilizarão vans.

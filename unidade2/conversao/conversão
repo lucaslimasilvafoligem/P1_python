@@ -1,0 +1,8 @@
+cotação = float(input(f"Cotação dá moeda:"))
+valor = float(input(f"Valor em dinheiro que deseja converter:"))
+
+resultado = cotação * valor
+
+print(f"O valor é de {resultado}")
+
+

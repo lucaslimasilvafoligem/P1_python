@@ -1,0 +1,17 @@
+# Objetivo: mais complexo que o parquinho 0
+
+#[18, ...] - 20,00
+#[13, 17]  - 10,00
+#[0, 12]   - 5,00
+
+idade = int(input("Digite sua idade:"))
+
+if idade <= 11:
+	print("Ingresso R$ 5,00")
+elif idade <= 17:
+	print("Ingresso R$ 10,00")
+else:
+	print("Ingresso R$ 20,00")
+
+print("Acesso liberado!")
+

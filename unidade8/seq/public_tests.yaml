@@ -1,0 +1,80 @@
+- input: |
+    4
+    9
+    11
+    6
+    2
+    1
+    7
+    3
+    5
+  output: |
+    IMPARES em maior quantidade
+    PARES:
+    4
+    6
+    2
+    IMPARES:
+    9
+    11
+    1
+    7
+    3
+    5
+
+- input: |
+    8
+    1
+    4
+    6
+    10
+  output: |
+    PARES em maior quantidade
+    PARES:
+    8
+    4
+    6
+    10
+    IMPARES:
+    1
+
+- input: |
+    2
+    9
+    1
+    6
+    4
+    11
+    7
+    3
+    5
+  output: |
+    IMPARES em maior quantidade
+    PARES:
+    2
+    6
+    4
+    IMPARES:
+    9
+    1
+    11
+    7
+    3
+    5
+
+- input: |
+    2
+    1
+    8
+    6
+    10
+  output: |
+    PARES em maior quantidade
+    PARES:
+    2
+    8
+    6
+    10
+    IMPARES:
+    1
+
